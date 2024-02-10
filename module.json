@@ -1,0 +1,20 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Inspector",
+    "author": "TeraProxy (modified by Maxeman)",
+    "description": "Automatically inspects players when they apply for your group and logs details about them in your console and ingame chat. Hides the inspect window during combat so you don't get distracted while fighting.",
+    "version": "1.5.2.max",
+    "options": {
+        "niceName": "Inspect",
+        "guiName": "Inspector",
+        "settingsVersion": 7,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/Maxeman5126/Inspector/master/"],
+    "supportUrl": "https://github.com/Maxeman5126/Inspector/issues",
+    "dependencies": {
+        "tera-game-state": "https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json"
+    }
+}
