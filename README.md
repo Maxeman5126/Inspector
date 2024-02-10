@@ -29,6 +29,7 @@ While in game, toolbox chat by typing "/8" in chat and hitting the space bar.
   
 ## Changelog
 <details>
+
 ### 1.5.2.max
 * [*] Updated for patch 100.02 and removed some unused elements such as weapon crystals on this patch.
 * [*] Corrected mapping values of class, race, and gender to align with game data.
